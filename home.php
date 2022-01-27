@@ -2,7 +2,7 @@
  <html lang="ja">
   <head>
    <meta charset="UTF-8">
-   <title>e-Cafe</title>
+   <title>Tennis Academy</title>
    <link rel="stylesheet" href="stylesheet.css">
    <meta name="description" content="当サイトはe-Cafeの注文サイトとなっております。">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
