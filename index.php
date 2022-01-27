@@ -8,14 +8,14 @@
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body>
-    <header>
-      <div class="container">
-          <h1>hello world!</h1>
-      </div>
-    </header>
-    <footer>
-      <div class="container">           </div>
-    </footer>
+    <div class="menu-wrapper container">
+      <h1>e-Cafe</h1>
+      <form method="post" action="confirm.php">
+        <div clas="menu-items">
+        </div>
+        <input type="submit" value="注文する">
+      </form>
+    </div>
     <script src="jquery-3.6.0.min.js"></script>
     <script src="script.js"></script>
   </body>
