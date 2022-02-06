@@ -3,7 +3,7 @@
   <head>
    <meta charset="UTF-8">
    <title>Tennis Academy E-shop</title>
-   <link rel="stylesheet" href="stylesheet.css">
+   <link rel="stylesheet" href="style.css">
    <meta name="description" content="当サイトは本アカデミーの公式物品販売サイトです。">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <script src="https://kit.fontawesome.com/00f67a9916.js" crossorigin="anonymous"></script>
@@ -12,7 +12,7 @@
     <header>
       <div class="container">
         <div class="header-upper">
-          <img class="header-logo" src="images\TennisAcadmy_logo.png">
+          <img class="header-logo" src="images/TennisAcadmy_logo.png">
           <h3 class="sport-name">Tennis</h3>
           <form action="localhost/TennisAcady_eshop" method="get">
             <input type="search" name="search" placeholder="キーワードを入力">
