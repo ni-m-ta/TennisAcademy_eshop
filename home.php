@@ -12,7 +12,7 @@
     <header>
       <div class="container">
         <div class="header-upper">
-          <img class="header-logo" src="C:\xampp\htdocs\TennisAcademy_eshop\images\TennisAcadmy_logo.png">
+          <img class="header-logo" src="images\TennisAcadmy_logo.png">
           <h3 class="sport-name">Tennis</h3>
           <form action="localhost/TennisAcady_eshop" method="get">
             <input type="search" name="search" placeholder="キーワードを入力">
