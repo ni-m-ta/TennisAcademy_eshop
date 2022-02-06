@@ -15,9 +15,11 @@ a {
     margin-left: auto;
 }
 
+
 .header-logo{
-  width: 5% 10%;
-  display: none;
+  width: 20px;
 }
 
-
+.sport-name{
+  color: red;
+}
