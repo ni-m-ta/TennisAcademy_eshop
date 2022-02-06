@@ -1,7 +1,6 @@
 body {
     margin: 0;
     font-family: "Hiragino Kaku Gothic ProN";
-    color: red;
   }
   
 a {
@@ -18,9 +17,7 @@ a {
 
 
 .header-logo{
-  width: 20px;
+  width: 20%;
+  height: 10%;
 }
 
-.sport-name{
-  color: red;
-}
