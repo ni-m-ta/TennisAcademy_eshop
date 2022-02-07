@@ -10,25 +10,25 @@
   </head>
   <body>
     <header>
-      <div class="container">
         <div class="header-upper">
           <img class="header-logo" src="images/TennisAcadmy_logo.png">
+          <i class="fab fa-facebook-square header-icon sns-icon"></i>
+          <i class="fab fa-twitter-square header-icon sns-icon"></i>
           <form class="header-icon" action="localhost/TennisAcady_eshop" method="get">
             <input type="search" name="search" placeholder="キーワードを入力">
             <input type="submit" name="submit" value="検索">
           </form>
-          <i class="fab fa-facebook-square header-icon"></i>
-          <i class="fab fa-twitter-square header-icon"></i>
         </div>
         <div class="header-below">
-          <a class="header-option">NEWS</a>
-          <a class="header-option">PRODUCTS</a>
-          <a class="header-option">PLAYERS</a>
-          <a class="header-option">INNOVATION</a>
-          <a class="header-option">VIDEOS</a>
-          <a class="header-option">EVENTS</a>
+          <div class="header-container">
+            <a class="header-option">NEWS</a>
+            <a class="header-option">PRODUCTS</a>
+            <a class="header-option">PLAYERS</a>
+            <a class="header-option">INNOVATION</a>
+            <a class="header-option">VIDEOS</a>
+            <a class="header-option">EVENTS</a>
+          </div>
         </div>
-      </div>
     </header>
     <div class="menu-wrapper container">
     </div>
