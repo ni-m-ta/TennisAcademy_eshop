@@ -13,13 +13,12 @@
       <div class="container">
         <div class="header-upper">
           <img class="header-logo" src="images/TennisAcadmy_logo.png">
-          <h3 class="sport-name">Tennis</h3>
-          <form action="localhost/TennisAcady_eshop" method="get">
+          <form class="header-icon" action="localhost/TennisAcady_eshop" method="get">
             <input type="search" name="search" placeholder="キーワードを入力">
             <input type="submit" name="submit" value="検索">
           </form>
-          <i class="fab fa-facebook-square"></i>
-          <i class="fab fa-twitter-square"></i>
+          <i class="fab fa-facebook-square header-icon"></i>
+          <i class="fab fa-twitter-square header-icon"></i>
         </div>
         <div class="header-below">
           <a class="header-option">NEWS</a>
