@@ -3,12 +3,12 @@
   <head>
    <meta charset="UTF-8">
    <title>Tennis Academy E-shop</title>
-   <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="css/style.css">
    <meta name="description" content="当サイトは本アカデミーの公式物品販売サイトです。">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <script src="https://kit.fontawesome.com/00f67a9916.js" crossorigin="anonymous"></script>
-   <link href="css/slick.css" rel="stylesheet" />
-   <link href="css/slick-theme.css" rel="stylesheet" />
+   <link href="slick/slick.css" rel="stylesheet" />
+   <link href="slick/slick-theme.css" rel="stylesheet" />
   </head>
   <body>
     <header>
@@ -38,16 +38,14 @@
         <div><img src="images/tennisWideImage3.jpg" alt="slide3"></div>     
       </div>
     <div class="news-wrapper container">
-      <div id="hide-text">説明を隠す</div>
-      <p id="text">I am setumei</p>
     </div>
     <footer>
       <div class="container">
 
       </div>
     </footer>
-    <script src="js/slick.min.js"></script>
-    <script src="jquery-3.6.0.min.js"></script>
-    <script src="script.js"></script>
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script src="slick/slick.min.js"></script>
+    <script src="js/script.js"></script>
   </body>
  </html>
