@@ -38,14 +38,61 @@
         <img class="slide" src="images/tennisWideImage7.jpg" alt="slide2">
         <img class="slide" src="images/tennisWideImage8.jpg" alt="slide3">     
       </div>
-    <div class="news-wrapper container">
-      <h2>NEWS</h2>
-      <div>
-        <img class="news-image" src="images/news2.jpg" alt="news1">
-        <img class="news-image" src="images/news3.jpg" alt="news2">
-        <img class="news-image" src="images/news4.jpg" alt="news3">
-        <img class="news-image" src="images/news5.jpg" alt="news4">
-        <img class="news-image" src="images/news6.jpg" alt="news5">
+    <div class="news-wrapper">
+      <div class="container">
+        <h2 class="news-title">NEWS</h2>
+        <div class="top-news">
+          <div class="news">
+            <img class="news-image" src="images/news2.jpg" alt="news1">
+            <div class="news-date">
+              <p class="day">31</p>
+              <p class="month">Mar.</p>
+            </div>
+            <div class="news-event">
+              <p>celemony</p>
+            </div>
+          </div>
+          <div class="news">
+            <img class="news-image" src="images/news3.jpg" alt="news2">
+            <div class="news-date">
+              <p class="day">01</p>
+              <p class="month">Feb.</p>
+            </div>
+            <div class="news-event">
+              <p>tournament</p>
+            </div>
+          </div>
+          <div class="news">
+            <img class="news-image" src="images/news4.jpg" alt="news3">
+            <div class="news-date">
+              <p class="day">02</p>
+              <p class="month">Jan.</p>
+            </div>
+            <div class="news-event">
+              <p>match</p>
+            </div>
+          </div>
+          <div class="news">
+            <img class="news-image" src="images/news5.jpg" alt="news4">
+            <div class="news-date">
+              <p class="day">03</p>
+              <p class="month">Dec.</p>
+            </div>
+            <div class="news-event">
+              <p>event</p>
+            </div>
+          </div>
+          <div class="news">
+            <img class="news-image" src="images/news6.jpg" alt="news5">
+            <div class="news-date">
+              <p class="day">04</p>
+              <p class="month">Nov.</p>
+            </div>
+            <div class="news-event">
+              <p>festival</p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
     <footer>
