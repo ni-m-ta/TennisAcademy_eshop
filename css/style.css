@@ -20,64 +20,69 @@ header{
   width: 100%;
 }
 
-.header-upper{
-  height: 45px;
-  width: 100%;
-  background-color: #778899;
-  opacity: 0.5;
-}
+  .header-upper{
+    height: 45px;
+    width: 100%;
+    background-color: #778899;
+    opacity: 0.5;
+  }
 
-.header-below{
-  height: 45px;
-  width: 100%;
-  background-color: #778899;
-}
-
-
-.header-logo{
-  width: 120px;
-  height: 45px;
-}
-
-.header-icon{
-  float: right;
-  padding-right: 10px;
-}
-
-input{
-  vertical-align: middle;
-  margin-top: 10px;
-}
-
-form{
-  height: 45px;
-}
+  .header-below{
+    height: 45px;
+    width: 100%;
+    background-color: #778899;
+  }
 
 
-.sns-icon{
-  font-size: 45px;
-}
+    .header-logo{
+      width: 120px;
+      height: 45px;
+    }
+
+    .header-icon{
+      float: right;
+      padding-right: 10px;
+    }
+
+    input{
+      vertical-align: middle;
+      margin-top: 10px;
+    }
+
+    form{
+      height: 45px;
+    }
 
 
-.header-container{
-  height: 45px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
-  color: white;
-}
+    .sns-icon{
+      font-size: 45px;
+      color: orange;
+    }
+
+
+  .header-container{
+    height: 45px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    color: white;
+  }
 
 .top-slide{
   width: 100%;
 }
 
-.slide{
-  height: 600px;
-}
+  .slide{
+    height: 600px;
+  }
 
+.news-wrapper{
+  height: 500px;
+  width: 100%;
+}
 
 

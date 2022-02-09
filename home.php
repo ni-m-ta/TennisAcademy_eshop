@@ -11,6 +11,7 @@
    <link href="slick/slick-theme.css" rel="stylesheet" />
   </head>
   <body>
+  <!--- all image from https://unsplash.com/s/photos/tennis --->
     <header>
         <div class="header-upper">
           <img class="header-logo" src="images/TennisAcadmy_logo.png">
@@ -33,11 +34,19 @@
         </div>
     </header>
       <div class="top-slide">
-        <img class="slide" src="images/tennisWideImage3.jpg" alt="slide1">
-        <img class="slide" src="images/tennisWideImage4.jpg" alt="slide2">
-        <img class="slide" src="images/tennisWideImage5.jpg" alt="slide3">     
+        <img class="slide" src="images/tennisWideImage6.jpg" alt="slide1">
+        <img class="slide" src="images/tennisWideImage7.jpg" alt="slide2">
+        <img class="slide" src="images/tennisWideImage8.jpg" alt="slide3">     
       </div>
     <div class="news-wrapper container">
+      <h2>NEWS</h2>
+      <div>
+        <img class="news-image" src="images/news2.jpg" alt="news1">
+        <img class="news-image" src="images/news3.jpg" alt="news2">
+        <img class="news-image" src="images/news4.jpg" alt="news3">
+        <img class="news-image" src="images/news5.jpg" alt="news4">
+        <img class="news-image" src="images/news6.jpg" alt="news5">
+      </div>
     </div>
     <footer>
       <div class="container">
