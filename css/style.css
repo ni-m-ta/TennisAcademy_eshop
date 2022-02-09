@@ -73,11 +73,11 @@ form{
 
 .top-slide{
   width: 100%;
-  margin: 0;
 }
 
 .slide{
-  width: 50%;
-  margin: 0;
+  height: 600px;
 }
+
+
 

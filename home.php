@@ -33,9 +33,9 @@
         </div>
     </header>
       <div class="top-slide">
-        <div><img class="slide" src="images/tennisWideImage3.jpg" alt="slide1"></div> 
-        <div><img class="slide" src="images/tennisWideImage3.jpg" alt="slide2"></div>
-        <div><img class="slide" src="images/tennisWideImage3.jpg" alt="slide3"></div>     
+        <img class="slide" src="images/tennisWideImage3.jpg" alt="slide1">
+        <img class="slide" src="images/tennisWideImage4.jpg" alt="slide2">
+        <img class="slide" src="images/tennisWideImage5.jpg" alt="slide3">     
       </div>
     <div class="news-wrapper container">
     </div>
