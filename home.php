@@ -44,6 +44,7 @@
         <div class="top-news">
           <div class="news">
             <img class="news-image" src="images/news2.jpg" alt="news1">
+            <p class="news-description">description1</p>
             <div class="news-date">
               <p class="day">31</p>
               <p class="month">Mar.</p>
@@ -54,6 +55,7 @@
           </div>
           <div class="news">
             <img class="news-image" src="images/news3.jpg" alt="news2">
+            <p class="news-description">description2</p>
             <div class="news-date">
               <p class="day">01</p>
               <p class="month">Feb.</p>
@@ -64,6 +66,7 @@
           </div>
           <div class="news">
             <img class="news-image" src="images/news4.jpg" alt="news3">
+            <p class="news-description">description3</p>
             <div class="news-date">
               <p class="day">02</p>
               <p class="month">Jan.</p>
@@ -74,6 +77,7 @@
           </div>
           <div class="news">
             <img class="news-image" src="images/news5.jpg" alt="news4">
+            <p class="news-description">description4</p>
             <div class="news-date">
               <p class="day">03</p>
               <p class="month">Dec.</p>
@@ -84,6 +88,7 @@
           </div>
           <div class="news">
             <img class="news-image" src="images/news6.jpg" alt="news5">
+            <p class="news-description">description5</p>
             <div class="news-date">
               <p class="day">04</p>
               <p class="month">Nov.</p>

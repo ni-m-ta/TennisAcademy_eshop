@@ -142,5 +142,23 @@ header{
   color: white;
 }
 
+.news{
+  background-color: orange;
+}
+
+.news:hover +.news-image{
+  opacity: 0.5;
+}
+
+.news-description{
+  position: absolute;
+  top: 0;
+  left: 5px;
+  color: white;
+  margin: 0;
+  display: none;
+}
+
+
 
 
