@@ -42,8 +42,8 @@
       <div class="container">
         <h2 class="news-title">NEWS</h2>
         <div class="top-news">
-          <div class="news">
-            <img class="news-image" src="images/news2.jpg" alt="news1">
+          <div class="news news1">
+            <div class="news-backgroundColor"></div>
             <p class="news-description">description1</p>
             <div class="news-date">
               <p class="day">31</p>
@@ -102,7 +102,8 @@
     </div>
     <footer>
       <div class="container">
-
+        <div class="test">
+        </div>
       </div>
     </footer>
     <script src="js/jquery-3.6.0.min.js"></script>
