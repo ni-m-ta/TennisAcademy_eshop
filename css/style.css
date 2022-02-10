@@ -65,8 +65,8 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 200px;
+    padding-left: 200px;
     margin-right: auto;
     margin-left: auto;
     color: white;
@@ -83,88 +83,107 @@ header{
 .news-wrapper{
   height: 500px;
   width: 100%;
-}
-
-.news-title{
   text-align: center;
-  color: orange;
 }
 
-.top-news{
-  display: flex;
-  justify-content: center;
-  gap: 25px 75px;
-}
+  .news-title{
+    text-align: center;
+    color: orange;
+  }
 
-.news{
-  height: 200px;
-  width: 150px;
-  position: relative;
-  background-size: 150px 200px;
-  background-repeat: no-repeat;
-}
+  .top-news{
+    display: flex;
+    justify-content: center;
+    gap: 25px 75px;
+  }
 
-.news-image{
-  height: 200px;
-  width: 150px;
-}
+    .news{
+      height: 200px;
+      width: 150px;
+      position: relative;
+      background-size: 150px 200px;
+      background-repeat: no-repeat;
+    }
 
-.news-date{
-  height: 50px;
-  width: 40px;
-  color: white;
-  background: rgba(119, 136, 153, 0.4);
-  text-align: center;
-  position: absolute;
-  top: 150px;
-}
 
-.day{
-  margin: 0;
-  border-bottom: solid 1px white;
-}
+      .news-date{
+        height: 50px;
+        width: 40px;
+        color: white;
+        background: rgba(119, 136, 153, 0.4);
+        text-align: center;
+        position: absolute;
+        top: 150px;
+      }
 
-.month{
-  margin: 0;
-}
+        .day{
+          margin: 0;
+          border-bottom: solid 1px white;
+        }
 
-.news-event{
-  background-color: #778899;
-  text-align: center;
-  background: rgba(119, 136, 153, 0.4);
-  font-size: small;
-  width: 75px;
-  position: absolute;
-  top: 180px;
-  left: 75px;
-}
+        .month{
+          margin: 0;
+        }
 
-.news-event p{
-  margin: 0;
-  color: white;
-}
+      .news-event{
+        background-color: #778899;
+        text-align: center;
+        background: rgba(119, 136, 153, 0.4);
+        font-size: small;
+        width: 75px;
+        position: absolute;
+        top: 180px;
+        left: 75px;
+      }
 
-.news1{
-  background-image: url(../images/news2.jpg);
-}
+        .news-event p{
+          margin: 0;
+          color: white;
+        }
 
-.news:hover .news-description{
-  display: inline-block;
-}
+    .news1{
+      background-image: url(../images/news2.jpg);
+    }
 
-.news:hover .news-backgroundColor{
-  height: 200px;
-  width: 150px;
-  background-color: rgba(255, 153, 0, 0.541);
-}
+    .news2{
+      background-image: url(../images/news3.jpg);
+    }
 
-.news-description{
-  position: absolute;
-  top: 0;
-  left: 5px;
-  color: white;
-  margin: 0;
-  display: none;
-}
+    .news3{
+      background-image: url(../images/news4.jpg);
+    }
 
+    .news4{
+      background-image: url(../images/news5.jpg);
+    }
+
+    .news5{
+      background-image: url(../images/news6.jpg);
+    }
+
+    .news:hover .news-description{
+      display: inline-block;
+    }
+
+    .news:hover .news-backgroundColor{
+      height: 200px;
+      width: 150px;
+      background-color: rgba(255, 153, 0, 0.541);
+    }
+
+    .news-description{
+      position: absolute;
+      top: 0;
+      left: 5px;
+      color: white;
+      margin: 0;
+      display: none;
+    }
+  
+  .news-button{
+    display: inline-block;
+    text-align: center;
+    padding: 15px;
+    color: orange;
+  }
 

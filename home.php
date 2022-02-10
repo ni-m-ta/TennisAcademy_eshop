@@ -27,9 +27,7 @@
             <a class="header-option">NEWS</a>
             <a class="header-option">PRODUCTS</a>
             <a class="header-option">PLAYERS</a>
-            <a class="header-option">INNOVATION</a>
             <a class="header-option">VIDEOS</a>
-            <a class="header-option">EVENTS</a>
           </div>
         </div>
     </header>
@@ -53,8 +51,8 @@
               <p>celemony</p>
             </div>
           </div>
-          <div class="news">
-            <img class="news-image" src="images/news3.jpg" alt="news2">
+          <div class="news news2">
+            <div class="news-backgroundColor"></div>
             <p class="news-description">description2</p>
             <div class="news-date">
               <p class="day">01</p>
@@ -64,8 +62,8 @@
               <p>tournament</p>
             </div>
           </div>
-          <div class="news">
-            <img class="news-image" src="images/news4.jpg" alt="news3">
+          <div class="news news3">
+            <div class="news-backgroundColor"></div>
             <p class="news-description">description3</p>
             <div class="news-date">
               <p class="day">02</p>
@@ -75,8 +73,8 @@
               <p>match</p>
             </div>
           </div>
-          <div class="news">
-            <img class="news-image" src="images/news5.jpg" alt="news4">
+          <div class="news news4">
+            <div class="news-backgroundColor"></div>
             <p class="news-description">description4</p>
             <div class="news-date">
               <p class="day">03</p>
@@ -86,8 +84,8 @@
               <p>event</p>
             </div>
           </div>
-          <div class="news">
-            <img class="news-image" src="images/news6.jpg" alt="news5">
+          <div class="news news5">
+            <div class="news-backgroundColor"></div>
             <p class="news-description">description5</p>
             <div class="news-date">
               <p class="day">04</p>
@@ -98,12 +96,11 @@
             </div>
           </div>
         </div>
+        <a class="news-button">VIEW ALL &rtrif;</a>
       </div>
     </div>
     <footer>
       <div class="container">
-        <div class="test">
-        </div>
       </div>
     </footer>
     <script src="js/jquery-3.6.0.min.js"></script>
