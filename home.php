@@ -99,6 +99,37 @@
         <a class="news-button">VIEW ALL &rtrif;</a>
       </div>
     </div>
+    <div class="products-wrapper-hidden">
+      <div class="container">
+        <h3 class="products-title">PRODUCTS</h3>
+        <div class="products-top">
+          <div class="product">
+            <img src="./images/productRacket.jpg" alt="racket">
+            <a class="product-name">Racket</a>
+          </div>
+          <div class="product">
+            <img src="./images/productBall.jpg" alt="ball">
+            <a class="product-name">Ball</a>
+          </div>
+          <div class="product">
+            <img src="./images/productShoes.jpg" alt="shoes">
+            <a class="product-name">Shoes</a>
+          </div>
+          <div class="product">
+            <img src="./images/productWear.jpg" alt="wear">
+            <a class="product-name">Wear</a>
+          </div>
+          <div class="product">
+            <img src="./images/productCourt.jpg" alt="court">
+            <a class="product-name">Court</a>
+          </div>
+          <div class="product">
+            <img src="/images/productOthers.jpg" alt="others">
+            <a class="product-name">Others</a>
+          </div>
+        </div>
+      </div>
+    </div>
     <footer>
       <div class="container">
       </div>

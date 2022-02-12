@@ -187,3 +187,10 @@ header{
     color: orange;
   }
 
+.products-wrapper-hidden{
+  width: 100%;
+  background-color: #778899;
+  height: 300px;
+}
+
+
