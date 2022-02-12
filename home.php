@@ -99,6 +99,8 @@
         <a class="news-button">VIEW ALL &rtrif;</a>
       </div>
     </div>
+    <!--- create two wrappers, and when clicking the button, switch the html by using the click function etc.
+          of js --->
     <div class="products-wrapper-hidden">
       <div class="container">
         <h3 class="products-title">PRODUCTS</h3>
