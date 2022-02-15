@@ -3,12 +3,12 @@
   <head>
    <meta charset="UTF-8">
    <title>Tennis Academy E-shop</title>
-   <link rel="stylesheet" href="css/style.css">
    <meta name="description" content="当サイトは本アカデミーの公式物品販売サイトです。">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <script src="https://kit.fontawesome.com/00f67a9916.js" crossorigin="anonymous"></script>
    <link href="slick/slick.css" rel="stylesheet" />
    <link href="slick/slick-theme.css" rel="stylesheet" />
+   <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
   <!--- all image from https://unsplash.com/s/photos/tennis --->
@@ -126,7 +126,7 @@
             <a class="product-name">Court</a>
           </div>
           <div class="product">
-            <img src="/images/productOthers.jpg" alt="others">
+            <img src="./images/productOthers.jpg" alt="others">
             <a class="product-name">Others</a>
           </div>
         </div>

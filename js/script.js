@@ -13,3 +13,17 @@ $(function(){
     });
 });
 
+$(function(){
+  $('.products-top').slick({
+    autoplay: false, //自動でスクロール
+    speed: 500, //スライドが流れる速度を設定
+    cssEase: "ease", //スライドの流れ方を等速に設定
+    slidesToShow: 4, //表示するスライドの数
+    swipe: true, // 操作による切り替えはさせない
+    arrows: true, //矢印非表示
+    pauseOnFocus: false, //スライダーをフォーカスした時にスライドを停止させるか
+    pauseOnHover: false, //スライダーにマウスホバーした時にスライドを停止させるか
+    infinite: true,
+  });
+});
+
