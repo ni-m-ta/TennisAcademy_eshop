@@ -5,10 +5,10 @@
    <title>Tennis Academy E-shop</title>
    <meta name="description" content="当サイトは本アカデミーの公式物品販売サイトです。">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <script src="https://kit.fontawesome.com/00f67a9916.js" crossorigin="anonymous"></script>
    <link href="slick/slick.css" rel="stylesheet" />
    <link href="slick/slick-theme.css" rel="stylesheet" />
    <link rel="stylesheet" href="css/style.css">
+   <script src="https://kit.fontawesome.com/00f67a9916.js" crossorigin="anonymous"></script>
   </head>
   <body>
   <!--- all image from https://unsplash.com/s/photos/tennis --->
@@ -129,6 +129,38 @@
             <img src="./images/productOthers.jpg" alt="others">
             <a class="product-name">Others</a>
           </div>
+        </div>
+      </div>
+      <div class="products-wrapper-button" id="products-open-button"></div>
+    </div>
+    <div class="products-wrapper-opened">
+      <div class="container">
+        <h3 class="products-title">PRODUCTS</h3>
+        <div class="products-all">
+          <div class="product-opened">
+              <img src="./images/productRacket.jpg" alt="racket">
+              <a class="product-name-opened">Racket</a>
+            </div>
+            <div class="product-opened">
+              <img src="./images/productBall.jpg" alt="ball">
+              <a class="product-name-opened">Ball</a>
+            </div>
+            <div class="product-opened">
+              <img src="./images/productShoes.jpg" alt="shoes">
+              <a class="product-name-opened">Shoes</a>
+            </div>
+            <div class="product-opened">
+              <img src="./images/productWear.jpg" alt="wear">
+              <a class="product-name-opened">Wear</a>
+            </div>
+            <div class="product-opened">
+              <img src="./images/productCourt.jpg" alt="court">
+              <a class="product-name-opened">Court</a>
+            </div>
+            <div class="product-opened">
+              <img src="./images/productOthers.jpg" alt="others">
+              <a class="product-name-opened">Others</a>
+            </div>
         </div>
       </div>
     </div>

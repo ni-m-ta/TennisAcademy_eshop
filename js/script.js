@@ -27,3 +27,8 @@ $(function(){
   });
 });
 
+$('#products-open-button').click(function(){
+  $('.products-wrapper-hidden').hide();
+  
+});
+
