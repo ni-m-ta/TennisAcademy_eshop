@@ -8,10 +8,11 @@
    <link href="slick/slick.css" rel="stylesheet" />
    <link href="slick/slick-theme.css" rel="stylesheet" />
    <link rel="stylesheet" href="css/style.css">
-   <script src="https://kit.fontawesome.com/00f67a9916.js" crossorigin="anonymous"></script>
+   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.0.0/css/all.css">
   </head>
   <body>
-  <!--- all image from https://unsplash.com/s/photos/tennis --->
+  <!--- all images from https://unsplash.com/s/photos/tennis --->
+  <!--- all videos from https://www.pexels.com/search/videos/tennis%20court/ --->
     <header>
         <div class="header-upper">
           <img class="header-logo" src="images/TennisAcadmy_logo.png">
@@ -26,7 +27,6 @@
           <div class="header-container">
             <a class="header-option">NEWS</a>
             <a class="header-option">PRODUCTS</a>
-            <a class="header-option">PLAYERS</a>
             <a class="header-option">VIDEOS</a>
           </div>
         </div>
@@ -99,8 +99,6 @@
         <a class="news-button">VIEW ALL &rtrif;</a>
       </div>
     </div>
-    <!--- create two wrappers, and when clicking the button, switch the html by using the click function etc.
-          of js --->
     <div class="products-wrapper-hidden">
       <div class="container">
         <h3 class="products-title">PRODUCTS</h3>
@@ -131,7 +129,7 @@
           </div>
         </div>
       </div>
-      <div class="products-wrapper-button" id="products-open-button"></div>
+      <div class="products-wrapper-button1" id="products-open-button"></div>
     </div>
     <div class="products-wrapper-opened">
       <div class="container">
@@ -163,6 +161,39 @@
             </div>
         </div>
       </div>
+      <div class="products-wrapper-button2" id="products-hide-button"></div>
+    </div>
+    <div class="videos-wrapper">
+      <div class="container">
+        <h3 class="videos-title">VIDEOS</h3>
+        <div class="videos-all">
+          <div class="video video1">
+            <img class="video-screenshot" src="./images/tennisVideoScreenShot1.png">
+            <p class="video-description">description1</p>
+            <i class="fa-solid fa-circle-play"></i>
+          </div>
+            <div class="video video2">
+              <img class="video-screenshot" src="./images/tennisVideoScreenShot2.png">
+              <p class="video-description">description2</p>
+              <i class="fa-solid fa-circle-play"></i>
+            </div>
+            <div class="video video3">
+              <img class="video-screenshot" src="./images/tennisVideoScreenShot3.png">
+              <p class="video-description">description3</p>
+              <i class="fa-solid fa-circle-play"></i>
+            </div>
+            <div class="video video4">
+              <img class="video-screenshot" src="./images/tennisVideoScreenShot4.png">
+              <p class="video-description">description4</p>
+              <i class="fa-solid fa-circle-play"></i>
+            </div>
+            <div class="video video5">
+              <img class="video-screenshot" src="./images/tennisVideoScreenShot5.png">
+              <p class="video-description">description5</p>
+              <i class="fa-solid fa-circle-play"></i>
+            </div>
+        </div>
+      </div>
     </div>
     <footer>
       <div class="container">
@@ -173,3 +204,7 @@
     <script src="js/script.js"></script>
   </body>
  </html>
+
+
+
+
